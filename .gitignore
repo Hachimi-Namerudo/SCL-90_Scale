@@ -32,3 +32,4 @@ qrc_*.cpp
 Thumbs.db
 .idea/
 .vscode/
+.log

@@ -6,4 +6,4 @@ A self-assessment scale for mental health status
 
 开发中
 
-developingS
+developing
